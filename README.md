@@ -3,7 +3,7 @@
 This project uses machine learning to recommend the most suitable crop to grow based on environmental and soil conditions such as nitrogen, phosphorus, potassium levels, temperature, humidity, pH, and rainfall.
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://your-deployment-link.streamlit.app)  
+👉 [Click here to try the app](https://croprecommendationmlproject.streamlit.app/)  
 (*Replace this link with your Streamlit app URL*)
 
 ---
